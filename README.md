@@ -21,4 +21,5 @@
 * [X] 调研开源中医问答数据集
 * [X] 爬取中医养生电子书
 * [X] 学习书生·浦语大模型Demo
-* [ ] 学习RAG相关知识，基于InternLM 和 LangChain构建中医养生知识库问答
+* [X] 学习RAG相关知识，基于InternLM 和 LangChain构建中医养生知识库问答
+* [ ] 整理微调数据，基于XTuner进行微调
